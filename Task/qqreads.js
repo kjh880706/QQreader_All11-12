@@ -5,7 +5,11 @@ TG交流群       https://t.me/joinchat/AAAAAE7XHm-q1-7Np-tF3g
 boxjs链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/ziye.boxjs.json	
 另一完整版链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreadnode.js	
 打印ck链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreadck.js	
+
+
 转载请备注个名字，谢谢	
+
+
 11.25 增加 阅读时长上传，阅读金币，阅读随机金币	
 11.25 修复翻倍宝箱不同时领取的问题.增加阅读金币判定	
 11.25 修复阅读时长问题，阅读金币问题，请重新获取时长cookie	
@@ -26,16 +30,30 @@ boxjs链接      https://raw.githubusercontent.com/ziye12/JavaScript/master/Task
 12.30 增加提现开关，优化部分代码	
 12.31 修复版本更新带来的判定问题	
 1.4 增加ck失效提醒，ck获取时间显示，6点后今日收益显示，	
+
+
 ⚠️cookie获取方法：	
+
 进 https://m.q.qq.com/a/s/d3eacc70120b9a37e46bad408c0c4c2a	
+
 进书库⚠️选择一本书,看10秒以下,然后退出，获取时长url和时长header以及更新body，看书一定不能超过10秒	
+
+
 Secrets对应关系如下，多账号默认换行	
+
+
 qqreadbodyVal         👉   QQREAD_BODY	
 qqreadtimeurlVal      👉   QQREAD_TIMEURL	
 qqreadtimeheaderVal   👉   QQREAD_TIMEHD	
 CASH                  👉   QQREAD_CASH  提现标准 可设置0 1 2 10 30 50 100 设置0关闭	
+
+
 ⚠️宝箱奖励为20分钟一次，自己根据情况设置定时，建议设置11分钟一次	
+
+
 hostname=mqqapi.reader.qq.com	
+
+
 ############## 圈x	
 #企鹅读书获取更新body	
 https:\/\/mqqapi\.reader\.qq\.com\/log\/v4\/mqq\/track url script-request-body https://raw.githubusercontent.com/ziye12/JavaScript/master/Task/qqreads.js	
