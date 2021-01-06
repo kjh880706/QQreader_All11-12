@@ -1,4 +1,8 @@
 /* ziye	
+
+
+
+
 github地址     https://github.com/ziye12/JavaScript	
 TG频道地址     https://t.me/ziyescript	
 TG交流群       https://t.me/joinchat/AAAAAE7XHm-q1-7Np-tF3g	
